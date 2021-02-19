@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+gambar halaman awal ketika aplikasi dibuka
+<br>
+![plot](./img/gambar1.jpeg)
+<br>
+gambar ketika halaman di scroll
+<br>
+![plot](./img/gambar2.jpeg)
